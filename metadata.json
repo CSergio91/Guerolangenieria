@@ -1,0 +1,6 @@
+{
+  "name": "GI. Guerola Ingeniería - De un Local Vacío a un Negocio",
+  "description": "Landing page minimalista y optimizada para móviles de Guerola Ingeniería. Convierte locales comerciales vacíos en negocios reales con proyectos llave en mano, arquitectura y scroll de fondo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
